@@ -32,8 +32,16 @@ Aspiring Data Analyst and Data Science enthusiast passionate about turning data 
 - ✔ Data Analysis
 - ✔ Visualization
 
-### 2. Customer Data Analysis
-**Description:** Coming Soon...
+### 2. Customer Segmentation Project
+**Tools:** Python, Pandas
+
+**What I Do:**
+- Analyze customer purchase behavior
+- Group customers into segments
+
+**Skills Shown:**
+- ✔ Data analysis
+- ✔ Business insights
 
 ### 3. Data Visualization Dashboard
 **Description:** Coming Soon...
