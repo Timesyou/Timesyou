@@ -43,8 +43,16 @@ Aspiring Data Analyst and Data Science enthusiast passionate about turning data 
 - ✔ Data analysis
 - ✔ Business insights
 
-### 3. Data Visualization Dashboard
-**Description:** Coming Soon...
+### 3. COVID Data Visualization
+**Tools:** Python, Matplotlib
+
+**What I Do:**
+- Analyze COVID datasets
+- Create charts and graphs
+
+**Skills Shown:**
+- ✔ Data visualization
+- ✔ Data interpretation
 
 ## Goal
 To build a strong career in Data Science and contribute to data-driven decision making.
