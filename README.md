@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Tarun Babu 👋
 
-<!--
-**Timesyou/Timesyou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Analyst and Data Science enthusiast passionate about turning data into meaningful insights.
 
-Here are some ideas to get you started:
+## Skills
+- Python
+- Pandas
+- NumPy
+- Data Analysis
+- Data Visualization
+- SQL
+- Excel
+- Power BI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+- Machine Learning
+- Advanced Data Analysis
+- Data Visualization Techniques
+
+## Projects
+- Sales Data Analysis
+- Customer Data Analysis
+- Data Visualization Dashboard
+
+## Goal
+To build a strong career in Data Science and contribute to data-driven decision making.
