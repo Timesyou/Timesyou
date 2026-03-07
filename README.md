@@ -18,9 +18,25 @@ Aspiring Data Analyst and Data Science enthusiast passionate about turning data 
 - Data Visualization Techniques
 
 ## Projects
-- Sales Data Analysis
-- Customer Data Analysis
-- Data Visualization Dashboard
+
+### 1. Sales Data Analysis
+**Tools:** Python, Pandas, Matplotlib
+
+**What I Do:**
+- Analyze company sales data
+- Find best-selling products
+- Identify monthly sales trends
+
+**Skills Shown:**
+- ✔ Data Cleaning
+- ✔ Data Analysis
+- ✔ Visualization
+
+### 2. Customer Data Analysis
+**Description:** Coming Soon...
+
+### 3. Data Visualization Dashboard
+**Description:** Coming Soon...
 
 ## Goal
 To build a strong career in Data Science and contribute to data-driven decision making.
