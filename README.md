@@ -1,121 +1,47 @@
-# Hi, I'm Tarun Babu 👋
+# Hi, I'm Tarun Babu
 
-Data Analyst | Data Scientist | Business Intelligence Enthusiast
+**B.Com Computer Applications graduate | Aspiring Data Analyst and Python Developer**
 
-Business-focused Data Analyst skilled in Python, SQL, Power BI, and Machine Learning.
-Passionate about transforming raw data into meaningful business insights and intelligent dashboards.
+I am building practical projects around Python, SQL, retail analytics, and software testing. I prefer reproducible work with clear documentation and test evidence.
 
----
+## Current focus
 
-## 🚀 About Me
+- Python programming, data processing, and automation
+- SQL and relational databases
+- Retail sales and inventory analysis
+- Testing, Git workflows, and CI automation
 
-- 📊 Data Analytics & Business Intelligence Enthusiast
-- 🐍 Python | SQL | Power BI | Machine Learning
-- 📈 Passionate about Data Visualization & Predictive Analytics
-- 💼 Interested in Financial Analytics & Business Intelligence
-- 🎓 CA Intermediate Student + B.Com Computer Applications Graduate
+## Selected work
 
----
+### ShelfSense — Retail Inventory Intelligence
 
-## 🛠️ Tech Stack
+A Python project for analysing synthetic retail sales and inventory data, generating SKU performance reports, and producing replenishment recommendations.
 
-### Languages & Libraries
+- 30 application unit tests passed.
+- Python compilation and the end-to-end demo passed.
+- Demo output: 9 SKUs and 652 transaction lines.
+- The SQLite output passed its integrity check.
+- Source publication is in review: [ShelfSense pull request #1](https://github.com/Timesyou/retail-sales-sql-python-analysis/pull/1).
 
-- Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
-- SQL
-- Basic R
+### FaultScope Native Test Lab
 
-### Data Science & Machine Learning
+A native CI test lab for a Ghidra exporter and an x64dbg plugin bridge, using harmless test fixtures.
 
-- Regression Models
-- Random Forest
-- XGBoost
-- Decision Trees
-- K-Means Clustering
-- SHAP Explainability
-- SMOTE
+- x64dbg: 82 upstream tests plus the bridge test passed in each of four x86/x64 and TitanEngine/GleeBug combinations.
+- Ghidra source build, headless analysis, export, and report validation passed.
+- Evidence: [x64dbg run #45013374671](https://github.com/Timesyou/FaultScope-Test-Lab-/actions/runs/45013374671) · [Ghidra run #45013374574](https://github.com/Timesyou/FaultScope-Test-Lab-/actions/runs/45013374574).
+- The verification results are documented on a separate branch and have not yet been merged into `main`.
 
-### Visualization & BI
+## Tools used in current projects
 
-- Power BI
-- Plotly
-- Tableau (Basic)
-- Excel Dashboards
+Python · SQL · SQLite · Java · C++ · Git · GitHub Actions · Ghidra · x64dbg
 
-### Tools
+## Education
 
-- Jupyter Notebook
-- Google Colab
-- VS Code
-- Git & GitHub
-- MySQL
-- PostgreSQL
+B.Com — Computer Applications (2024)
 
----
+## Connect
 
-## 📌 Featured Projects
-
-### 📊 Sales Data Analysis & Revenue Intelligence Dashboard
-
-Analyzed 50,000+ retail transactions to uncover revenue trends, seasonal demand patterns, and regional sales performance.
-
-**Key Highlights**
-
-- Built interactive Power BI dashboards
-- Automated ETL pipelines using Python
-- Identified revenue improvement opportunities
-- Reduced reporting time significantly
-
-🔗 [Project Link](https://github.com/Timesyou/sales-data-analysis-and-revenue-dashboard)
-
----
-
-### 🤖 Customer Churn Prediction using Machine Learning
-
-Developed a machine learning model to predict telecom customer churn with strong business-focused insights.
-
-**Key Highlights**
-
-- Achieved high prediction accuracy
-- Applied SMOTE for imbalance handling
-- Used SHAP for model explainability
-- Segmented high-risk customers
-
-🔗 [Project Link](https://github.com/Timesyou/customer-churn-prediction-ml)
-
----
-
-### 📚 Student Performance Analysis Dashboard
-
-Performed exploratory data analysis on student datasets and built interactive dashboards for performance insights.
-
-**Key Highlights**
-
-- End-to-end data preprocessing
-- Interactive Power BI reports
-- Correlation analysis & visual storytelling
-- Insight-driven academic analysis
-
-🔗 [Project Link](https://github.com/Timesyou/student-performance-analysis-dashboard)
-
----
-
-## 📈 Currently Learning
-
-- Advanced Machine Learning
-- Financial Analytics
-- Business Intelligence Systems
-- Deep Data Visualization
-- AI-powered Analytics
-
----
-
-## 🌐 Connect With Me
-
-- **LinkedIn:** https://linkedin.com/in/tarun-babu-bandi-266272228
-- **GitHub:** https://github.com/Timesyou
+- **LinkedIn:** [linkedin.com/in/tarun-babu-bandi-266272228](https://linkedin.com/in/tarun-babu-bandi-266272228)
+- **GitHub:** [github.com/Timesyou](https://github.com/Timesyou)
 - **Email:** Tarunbabu799@gmail.com
-
----
-
-⭐ Always exploring data, solving business problems, and building impactful analytics projects.
