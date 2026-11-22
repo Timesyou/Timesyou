@@ -17,7 +17,7 @@ I am building practical projects around Python, SQL, retail analytics, and softw
 
 A Python project for analysing synthetic retail sales and inventory data, generating SKU performance reports, and producing replenishment recommendations.
 
-- 30 application unit tests passed.
+- Earlier CI: 30/30 application tests passed on Python 3.10–3.13; the current PR adds one strict-date regression test, and its 31-test matrix is pending.
 - Python compilation and the end-to-end demo passed.
 - Demo output: 9 SKUs and 652 transaction lines.
 - The SQLite output passed its integrity check.
